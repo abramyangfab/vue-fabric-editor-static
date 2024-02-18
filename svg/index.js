@@ -125,7 +125,7 @@ const group = [
 
 
 
-const baseUrl = 'https://nihaojob.github.io/vue-fabric-editor-static/svg/'
+const baseUrl = 'https://abramyangfab.github.io/vue-fabric-editor-static/svg/'
 JSONData.data = group.map((item, i) => {
     const list = []
     for (let index = item.start; index < item.end; index++) {
